@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🏠 I'm from Kollam, Kerala<br><br>- 🔭 I’m working as an Intern @ Cloud Counselage Pvt Ltd.<br>- 📚 I'm currently on web development domain.<br>- ⚡ I'm learning more and more in this field, so that I can enter the position of a full stack engineer.</p>
+<p align="left">🏠 I'm from Kollam, Kerala<br><br>- 🔭 I’m currently working as an Intern @ Cloud Counselage Pvt Ltd.<br>- 📚 I'm currently on web development domain.<br>- ⚡ I'm learning more and more in this field, so that I can enter the position of a full stack engineer.</p>
 
 ###
 

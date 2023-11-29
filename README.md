@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🏠 I'm from Kollam, Kerala<br><br>- 🔭 I’m currently unemployed.<br>- 📚 I'm on web development domain.<br>- ⚡ Always learning more and more.</p>
+<p align="left">🏠 I'm from Kollam, Kerala<br><br>- 🔭 Freelancing...<br>- 📚 MEAN Stack.<br>- ⚡ Learning more and more and more ...</p>
 
 ###
 

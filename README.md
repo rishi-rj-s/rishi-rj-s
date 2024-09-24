@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a MEAN Stack Developer with a passion for backend development. My expertise lies in creating efficient, scalable solutions, leveraging tools like Node.js, Express.js, MongoDB, and Angular to build robust applications. Recently, I've dived deep into microservices architecture, with hands-on experience in Docker and Kubernetes, making containerized deployments smooth and scalable.
+I’m a MEAN Stack Developer with a passion for backend development ⚙️. My expertise lies in creating efficient and scalable solutions, leveraging tools like Node.js, Express.js, MongoDB, and Angular to build robust applications 🛠️.
 
+Recently, I’ve delved deep into microservices architecture 🕸️, gaining hands-on experience in Docker 🐳 and Kubernetes ☸️, making containerized deployments smooth and scalable 🚀.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishiraj-sajeev-a11b20269) 

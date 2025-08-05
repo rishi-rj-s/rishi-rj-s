@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishirajs2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CdlCO6DPjHLI4TNQCvaQZPGpFbF_xmXl/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZjQ7u7ZXI10wO6AfUQ206jF167XVt7O_/view)
 
 - ⚡ Fun fact **I'm always available**
 

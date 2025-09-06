@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishiraj Sajeev</h1>
-<h3 align="center">I’m a MEAN Stack Developer with a passion for backend development ⚙️. My expertise lies in creating efficient and scalable solutions, leveraging tools like Node.js, Express.js, MongoDB, and Angular to build robust applications 🛠️.<br><br>Recently, I’ve delved deep into microservices architecture 🕸️, gaining hands-on experience in Docker 🐳 and Kubernetes ☸️, making containerized deployments smooth and scalable 🚀.</h3>
+<h3 align="center">MEAN Stack Developer ⚙️ | Backend-focused, microservices-driven 🕸️ | Building scalable apps with Node.js, Express, MongoDB, Angular, Docker 🐳 & Kubernetes ☸️ 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi-rj-s" alt="rishi-rj-s" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZjQ7u7ZXI10wO6AfUQ206jF167XVt7O_/view)
 
-- ⚡ Fun fact **I'm always available**
+- ⚡ Fun fact - **I'm kinda always available...**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rishiraj-sajeev-a11b20269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishiraj-sajeev-a11b20269" height="30" width="40" /></a>

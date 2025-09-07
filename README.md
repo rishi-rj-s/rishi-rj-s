@@ -14,7 +14,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269" class="tooltip">
+<a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269" tooltip="(Ctrl+Click to open in new tab🔗)">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 <br><br>
@@ -24,33 +24,3 @@
   <br>
   <sub>Credit: <a href="https://github.com/haucky/drawing_animation">haucky/drawing_animation</a></sub>
 </p>
-
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltip .tooltip-text {
-  visibility: hidden;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  padding: 5px 8px;
-  border-radius: 5px;
-  
-  position: absolute;
-  bottom: 125%; /* Position above the icon */
-  left: 50%;
-  transform: translateX(-50%);
-  
-  opacity: 0;
-  transition: opacity 0.3s ease 0.5s; /* 0.5s delay */
-  /* ^ you can change this delay */
-}
-
-.tooltip:hover .tooltip-text {
-  visibility: visible;
-  opacity: 1;
-}
-</style>

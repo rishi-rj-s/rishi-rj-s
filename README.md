@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rishiraj-sajeev-a11b20269" height="30" width="40" /></a>
 <sub>(Ctrl+click -> open in new tab 🔗)</sub>
-<br>
-
+<br><br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" width="800" padding="20"/>

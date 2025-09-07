@@ -14,8 +14,9 @@
 <sub>(Ctrl+click -> open in new tab 🔗)</sub>
 <br>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" />
+  <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" width="800" padding="20"/>
   <br>
   <sub>Credit: <a href="https://github.com/haucky/drawing_animation">haucky/drawing_animation</a></sub>
 </p>

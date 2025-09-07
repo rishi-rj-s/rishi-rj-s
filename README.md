@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishiraj Sajeev</h1>
 
 <h3 align="center">
-  I'm a Full Stack Developer ⚙️ — backend-focused and microservices-driven 🕸️.  
+  I'm a Full Stack Developer ⚙️ — backend-focused and microservices-driven 🕸️
 </h3>
 
 ---
@@ -14,12 +14,12 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269" title="(Ctrl+Click to open in new tab🔗)">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269" title="(Ctrl+Click to open in new tab🔗)" style="display:inline-block;">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/riiiiiiiiiiiiishiiiiiiiiiiiii" title="Follow me on Instagram">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/riiiiiiiiiiiiishiiiiiiiiiiiii" title="Follow me on Instagram" style="display:inline-block;">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 <br><br>
 

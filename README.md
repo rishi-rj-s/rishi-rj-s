@@ -19,7 +19,7 @@
 </a>
 <sub>(Ctrl+click → open in new tab 🔗)</sub>
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" width="800"/>

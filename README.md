@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" width="400"/>
+  <img src="https://raw.githubusercontent.com/haucky/img/master/drawing_animation/art_dino2.gif" alt="Dino drawing animation" />
   <br>
   <sub>Credit: <a href="https://github.com/haucky/drawing_animation">haucky/drawing_animation</a></sub>
 </p>

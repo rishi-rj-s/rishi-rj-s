@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning a bit of **DevOps**  
 - 📫 How to reach me: **rishirajs2003@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1ZjQ7u7ZXI10wO6AfUQ206jF167XVt7O_/view)  
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XiCC-hTnt-hQCDqM-4maiEMUiHRLU609/view)  
 - ⚡ Fun fact: **I'm kinda always available...**
 
 ---

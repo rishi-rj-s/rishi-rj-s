@@ -11,7 +11,7 @@
 I'm a **self-taught full-stack developer** passionate about building scalable, secure web applications and distributed systems.  
 I specialize in **backend development, microservices, and DevOps workflows**, with hands-on experience in **real-time communication, cloud deployment**, and **API-driven architectures**.
 
-- 🔭 Currently building **Tagtics**, a SaaS feedback platform (early access phase)
+- 🔭 Currently building **Tagtics**, a SaaS feedback platform
 - 🌱 Exploring deeper into **Kubernetes, CI/CD**, and **cloud-native microservices**
 - 💬 Ask me about **NestJS, Kafka, GraphQL, gRPC, Docker, or Supabase**
 - 📫 Reach me at **rishirajsajeev@gmail.com**

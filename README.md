@@ -16,7 +16,7 @@ I specialize in **backend development, microservices, and DevOps workflows**, wi
 - 💬 Ask me about **NestJS, Kafka, GraphQL, gRPC, Docker, or Supabase**
 - 📫 Reach me at **rishirajsajeev@gmail.com**
 - 💼 Portfolio's right [here](https://rishiraj-sajeev.space)
-- 📄 View my [Resume](https://drive.google.com/file/d/1yIERbKZbXD9vZM3zaEO1eI-6HLbEYZkb/view)
+- 📄 View my [Resume](https://drive.google.com/file/d/10ytaoJifkbf2_L043zVxiT9-Pl-cEQd8/view)
 - ⚡ Fun fact: I’m kinda always available...
 
 ---

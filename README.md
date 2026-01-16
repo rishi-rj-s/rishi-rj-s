@@ -3,7 +3,7 @@
 
 I specialize in building scalable, secure web applications and distributed systems. My focus lies in backend architecture, real-time communication, and DevOps workflows. Currently, I am developing **Tagtics**, a SaaS feedback platform.
 
-[**Portfolio**](https://rishiraj-sajeev.space) | [**Resume**](https://drive.google.com/file/d/1aoVmRfba1XRxbaSIYcvoTwQ7fNygcKEn/view)
+[**Portfolio**](https://rishiraj-sajeev.space) | [**Resume**](https://drive.google.com/file/d/17_bgwCMB4saHJmpCE2KBaYDlfLx3JDv5/view)
 
 ---
 

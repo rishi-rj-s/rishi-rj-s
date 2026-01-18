@@ -1,5 +1,5 @@
 # Rishiraj Sajeev
-**Full Stack Developer** | Backend-Focused | Microservices | Cloud-Native
+**Full Stack Developer** | Microservices | Cloud-Native
 
 I specialize in building scalable, secure web applications and distributed systems. My focus lies in backend architecture, real-time communication, and DevOps workflows. Currently, I am developing **Tagtics**, a SaaS feedback platform.
 

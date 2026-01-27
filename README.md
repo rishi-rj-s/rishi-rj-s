@@ -1,5 +1,5 @@
 # Rishiraj Sajeev
-**Full Stack Developer** | Microservices | Cloud-Native
+**Full Stack Engineer** | SaaS Architect | Angular & React | NestJS & Microservices | Open Source Contributor
 
 I specialize in architecting production-grade SaaS platforms and microservices. Expert in Angular and React ecosystems, backed by robust NestJS and Node.js systems. Proven ability to reverse-engineer enterprise Open Source ERPs, design secure multi-tenant architectures (RLS/RBAC), and integrate Generative AI agents.
 

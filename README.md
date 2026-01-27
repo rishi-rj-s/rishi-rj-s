@@ -1,24 +1,19 @@
 # Rishiraj Sajeev
 **Full Stack Developer** | Microservices | Cloud-Native
 
-I specialize in building scalable, secure web applications and distributed systems. My focus lies in backend architecture, real-time communication, and DevOps workflows. Currently, I am developing **Tagtics**, a SaaS feedback platform.
+I specialize in architecting production-grade SaaS platforms and microservices. Expert in Angular and React ecosystems, backed by robust NestJS and Node.js systems. Proven ability to reverse-engineer enterprise Open Source ERPs, design secure multi-tenant architectures (RLS/RBAC), and integrate Generative AI agents.
 
-[**Portfolio**](https://rishiraj-sajeev.space) | [**Resume**](https://drive.google.com/file/d/17_bgwCMB4saHJmpCE2KBaYDlfLx3JDv5/view)
+[**Portfolio**](https://rishiraj-sajeev.space) | [**Resume**](https://drive.google.com/file/d/1ny9rB_WPOO7nD4GSVSDhIAKgjoZflxta/view)
 
 ---
 
 ### Technical Skills
 
-* **Languages:** TypeScript, JavaScript, SQL, Java
-* **Backend:** Node.js, NestJS, Express, GraphQL, gRPC, Kafka
-* **Frontend:** React, Angular, Vue
-* **Database:** PostgreSQL, MongoDB, Supabase, Redis
-* **DevOps:** Docker, Kubernetes, AWS, CI/CD
-
----
-
-### Open Source
-I am actively contributing to the open-source community, focusing on solving complex issues in high-leverage repositories within the JavaScript and web infrastructure ecosystem.
+* **Frontend Architecture:** Angular (v17+, Signals, RxJS), React (Zustand), Vue 3, Tailwind CSS
+* **Backend & Systems:** NestJS (Microservices), Node.js, Express, gRPC, Apache Kafka, WebSockets
+* **Database & Security:** PostgreSQL (RLS), MongoDB, Redis, Supabase Auth, RBAC
+* **DevOps & Cloud:** AWS (EC2, Nginx), Docker, CI/CD (GitHub Actions), Git
+* **Emerging Tech:** AI Integration (Gemini LLM, ElevenLabs), Prompt Engineering, Real-time Audio
 
 ---
 
@@ -30,6 +25,5 @@ University of Kerala, India
 
 ### Connect
 <a href="mailto:rishirajsajeev@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/rishiraj-sajeev-a11b20269">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/rishiraj-sajeev">LinkedIn</a> •
 <a href="https://github.com/rishi-rj-s">GitHub</a> •
-<a href="https://www.instagram.com/riiiiiiiiiiiiishiiiiiiiiiiiii">Instagram</a>

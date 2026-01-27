@@ -26,4 +26,4 @@ University of Kerala, India
 ### Connect
 <a href="mailto:rishirajsajeev@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/rishiraj-sajeev">LinkedIn</a> •
-<a href="https://github.com/rishi-rj-s">GitHub</a> •
+<a href="https://github.com/rishi-rj-s">GitHub</a>
